@@ -801,7 +801,7 @@ subheading
     height: 40px;
     position: fixed;
     text-align: center;
-    width: 69%;
+    width: 60%;
     right: 13px;
     top:-60px;
     transition: all 0.7s;
@@ -873,7 +873,7 @@ subheading
 }
 
 .content-blocks.pop.showx {
-    left: 30%;
+    left: 40%;
     opacity: 1;
 }
 
@@ -2277,7 +2277,7 @@ h4.package {
 	#project-modal,
 	#post-modal,
 	.content-blocks {
-		width: 880px;
+		width: 60%;
 		left: 700px;
 	}
 	.inline-menu-container {
