@@ -68,10 +68,10 @@
 	// Typing Animation (Typed.js)
 	$('#element').typed({
 		strings: ["Web Developer", "Software Engineer", "Soccer Enthusiast", "Food Developer (aka cook)", "Binge Watcher" ],
-		typeSpeed: -50,
+		typeSpeed: -60,
 		loop: true,
-		startDelay: 500,
-		backDelay: 5000,
+		startDelay: 1500,
+		backDelay: 900,
 		contentType: 'html',
 	});
 
