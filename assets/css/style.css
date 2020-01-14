@@ -987,6 +987,7 @@ h2.menu-item:after {
 .name-block-container h2 {
     font-size: 26px;
     min-height: 26px;
+    text-transform: capitalize;
 }
 
 .name-block-container h1 span {
