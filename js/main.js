@@ -70,8 +70,8 @@
 		strings: ["Web Developer", "Software Engineer", "Sportsaholic", "Food Developer (aka Cook)", "Learner", "Binge Watcher"],
 		typeSpeed: -10,
 		loop: true,
-		startDelay: 1500,
-		backDelay: 900,
+		startDelay: 500,
+		backDelay: 1500,
 		contentType: 'html',
 	});
 
